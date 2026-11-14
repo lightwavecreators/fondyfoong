@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lightwavecreators.github.io/fondyfoong/sitemap.xml
+Sitemap: https://www.fondyfoong.com/sitemap.xml
