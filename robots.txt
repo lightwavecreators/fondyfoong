@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.fondyfoong.com/sitemap.xml
+Sitemap: https://fondyfoong.com/sitemap.xml
